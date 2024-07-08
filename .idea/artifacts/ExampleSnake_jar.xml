@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExampleSnake:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ExampleSnake_jar</output-path>
+    <root id="archive" name="ExampleSnake.jar">
+      <element id="module-output" name="ExampleSnake" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/Snake2020-v1-friendly.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

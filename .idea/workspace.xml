@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ExampleSnake:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91d8520c-5f49-4c3a-b312-37efa363631b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hbvOYMgc8YimiarXrUkuGUgVxF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mulisa\IdeaProjects\SnakesForSale\ExampleSnake\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyAgent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyAgent" />
+      <module name="ExampleSnake" />
+      <option name="PROGRAM_PARAMETERS" value="-develop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyAgent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91d8520c-5f49-4c3a-b312-37efa363631b" name="Default Changelist" comment="" />
+      <created>1600292574134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600292574134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="843" y="138" width="926" height="846" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602963272859">
+      <screen x="72" y="27" width="2488" height="1053" />
+    </state>
+    <state x="843" y="138" width="926" height="846" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.2488.1053/2560.0.1920.1080@72.27.2488.1053" timestamp="1602963272859" />
+    <state width="2442" height="275" key="GridCell.Tab.0.bottom" timestamp="1603562318006">
+      <screen x="72" y="27" width="2488" height="1053" />
+    </state>
+    <state width="2442" height="275" key="GridCell.Tab.0.bottom/72.27.2488.1053/2560.0.1920.1080@72.27.2488.1053" timestamp="1603562318006" />
+    <state width="2442" height="275" key="GridCell.Tab.0.center" timestamp="1603562318006">
+      <screen x="72" y="27" width="2488" height="1053" />
+    </state>
+    <state width="2442" height="275" key="GridCell.Tab.0.center/72.27.2488.1053/2560.0.1920.1080@72.27.2488.1053" timestamp="1603562318006" />
+    <state width="2442" height="275" key="GridCell.Tab.0.left" timestamp="1603562318006">
+      <screen x="72" y="27" width="2488" height="1053" />
+    </state>
+    <state width="2442" height="275" key="GridCell.Tab.0.left/72.27.2488.1053/2560.0.1920.1080@72.27.2488.1053" timestamp="1603562318006" />
+    <state width="2442" height="275" key="GridCell.Tab.0.right" timestamp="1603562318006">
+      <screen x="72" y="27" width="2488" height="1053" />
+    </state>
+    <state width="2442" height="275" key="GridCell.Tab.0.right/72.27.2488.1053/2560.0.1920.1080@72.27.2488.1053" timestamp="1603562318006" />
+  </component>
+</project>
